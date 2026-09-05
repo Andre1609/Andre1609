@@ -8,9 +8,7 @@ Soy estudiante de desarrollo de software con orientación Full Stack. Me apasion
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre1609&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes principales" />
-</div>
+![Lenguajes principales](https://github-readme-stats.vercel.app/api/top-langs?username=Andre1609&layout=compact&theme=tokyonight&hide_border=true)
 
 
 ### 🗄️ Bases de Datos y Backend
