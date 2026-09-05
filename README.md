@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2F80ED&width=435&lines=Hola,+soy+Carlos+Andr%C3%A9+%F0%9F%91%8B;Estudiante+Full+Stack+en+la+UTP;Desarrollador+Java,+Python+y+React)](https://git.io/typing-svg)
-# Hola, soy Carlos Flores 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2F80ED&width=435&lines=Hola,+soy+Carlos+FloresC3%A9+%F0%9F%91%8B;Estudiante+Full+Stack+en+la+UTP;Desarrollador+Java,+Python+y+React)](https://git.io/typing-svg)
 
 Soy estudiante de desarrollo de software con orientación Full Stack. Me apasiona construir soluciones tecnológicas que resuelvan problemas reales, desde interfaces interactivas hasta integraciones complejas de sistemas.
 
